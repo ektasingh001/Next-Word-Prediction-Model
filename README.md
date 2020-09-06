@@ -1,1 +1,2 @@
-# Next-Word-Prediction-Model
+# Next-Word-Prediction-Models
+#This model uses 3 different approaches to predict next word in the series.
